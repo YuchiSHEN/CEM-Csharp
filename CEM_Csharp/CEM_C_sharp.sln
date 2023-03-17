@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEM_C_sharp", "CEM_C_sharp\CEM_C_sharp.csproj", "{8E68DC07-54DC-4120-AC33-123F6DA2FBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E68DC07-54DC-4120-AC33-123F6DA2FBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E68DC07-54DC-4120-AC33-123F6DA2FBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E68DC07-54DC-4120-AC33-123F6DA2FBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E68DC07-54DC-4120-AC33-123F6DA2FBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918A2D82-F2DA-43FA-A759-769499AB9A09}
+	EndGlobalSection
+EndGlobal

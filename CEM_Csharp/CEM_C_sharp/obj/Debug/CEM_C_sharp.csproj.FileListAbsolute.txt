@@ -1,0 +1,10 @@
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\bin\CEM_C_sharp.dll
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\bin\CEM_C_sharp.pdb
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\bin\NLoptNet.dll
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.csproj.CopyComplete
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.dll
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.pdb
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.Properties.Resources.resources
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.csproj.GenerateResource.cache
+C:\Users\SHEN Yuchi\Desktop\CEM_C_sharp\CEM_C_sharp\CEM_C_sharp\obj\Debug\CEM_C_sharp.csprojAssemblyReference.cache
